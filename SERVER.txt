@@ -1,2 +1,16 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5hZ2Fyb2sg8J+HrvCfh7EgKNio2LHYp9uMINmH2YXZhyDYqtinIDUg2KfYs9mB2YbYrykiLA0KICAiYWRkIjogIndhbGlkLmJhcm1hc2kud29ya2Vycy5kZXYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE0NWJkYTktZTAyNy00ZjRhLWEyN2UtOGUwY2NhOGQ5NzA1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3YWxpZC5iYXJtYXNpLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiaWwxLnYycmF5c2Vydi5jb20vdm1lc3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAid2FsaWQuYmFybWFzaS53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5hZ2Fyb2sg8J+HqfCfh6ogKNio2LHYp9uMINmH2YXZhyDYqtinIDcg2KfYs9mB2YbYrykiLA0KICAiYWRkIjogIndhbGlkLmJhcm1hc2kud29ya2Vycy5kZXYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjc3OTM4MDctYjZiYi00ODI3LWFhZWMtZDQxYTg4MTcxMTBhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3YWxpZC5iYXJtYXNpLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiZGUtZnJlZXZtZXNzLnByaXZhdGVpcC5uZXQvZnJlZXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIndhbGlkLmJhcm1hc2kud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSINCn0=
+"{
+  "v": "2",
+  "ps": "Nagarok🇫🇷 (ایرانسل)",
+  "add": "irc.eqjgkx.xyz",
+  "port": "443",
+  "id": "AF6DFB54-F04C-429E-88C7-9F6C228C2BF0",
+  "aid": "0",
+  "scy": "auto",
+  "net": "ws",
+  "type": "none",
+  "host": "ir.wbhotmail.workers.dev",
+  "path": "/speedtest/Paris.v2ray.online",
+  "tls": "tls",
+  "sni": "ir.wbhotmail.workers.dev",
+  "alpn": "h2,http/1.1"
+}"
